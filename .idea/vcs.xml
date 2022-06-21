@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ArchitectureSample/ArchitectureSample/Imagine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArchitectureSample/ArchitectureSample/Pokedex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArchitectureSample/ArchitectureSample/architecture-components-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArchitectureSample/ArchitectureSample/architecture-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArchitectureSample/CleanArchitectureNoteApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArchitectureSample/KotlinBaseWithCorutine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/MVBikePath" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/MVFerrySchedule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/UpdateTemplate-15-June-21/Architecture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/hoodsocialdc_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/mvacay" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/tasled_adds_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BLusCreativeLab/BLusCreativeLab/updateWipingCo/WipingCO/wippingcoApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dodexk/Dodexk/2021/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dodexk/Dodexk/GrocerAppFinal/GrocerApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dodexk/Dodexk/InterviewTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dodexk/Dodexk/MiniSQ/GrocerApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dodexk/Dodexk/Smart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dodexk/Dodexk/sampleApp/Bismillah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Adigiser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/AttendanceApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Bangle System/Bangle-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Dha ConsumerApp/techbay-engineering-tasled_adds_android-4b93c74f2fbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Dirilis-Group" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Ionic/Bismillah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Tia-Foundation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DotinfinyProject/Vehicle-Tracking-Netarus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/AirPollutionKassim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/Android-Scanner-Compat-Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/BLEScanningSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/alt-beacon-alarm-manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/android-beacon-library-reference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/android_example_for_kassim/android_example_for_kassim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/beaconSdk/SDK-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/demoBeacon/Android-nRF-Blinky" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/demoBeacon/beaconloc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/BeaconsProjects/demoBeacon/meeblue_beacon_android_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/DenimPriveAirApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/IsolatedHealthCare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/IsolatedHealthCare/New folder/MinttiSdkDemo/MinttiSdkDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/IsolatedHealthCare/test/Smartho_SDK_Android_v1.7/MinttiSdkDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/IsolatedHealthCare/test/connectivity-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/JJ-kassimAPp/AeelhU/NewKassimApp2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/KassimUpdated" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/MachineEye" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/NewKassimApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/TableExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/VideoCalling/signalling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/VideoCalling/webrtc-android-codelab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/ZmtNewApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/spm/spm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/KassimProjects/zmttesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KassimProjects/VidoTask/FirebaseRTC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TechBayPortal-All-Projects/isellz_android/isellz_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TechBayPortal-All-Projects/watya_android/watya_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WaqasProject/CannaCare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/saif/Android-PDF" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webView/webview" vcs="Git" />
+  </component>
+</project>
